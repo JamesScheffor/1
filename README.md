@@ -46,11 +46,7 @@
   
 </p>
 
-<div align="center">
 
-![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
-
-</div>
 
 
 
